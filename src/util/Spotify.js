@@ -3,7 +3,7 @@ const clientId = "5c5513141b284d129f3c7a824df18561";
 //const secret = "3023d7f19937490fa574f48355407959";
 let accessToken;
 //let redirectUri = 'http://localhost:3000/callback';
-let redirectUri = "http://john232323.surge.sh";
+let redirectUri = "localhost:3000";
 let userId;
 
 let Spotify = {
